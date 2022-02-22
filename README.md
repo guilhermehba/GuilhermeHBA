@@ -1,7 +1,7 @@
 ### Hello World! Welcome to my space! 👋
 ```
-🎂 23 Anos
-💼 Atualmente trabalho como Auxiliar Administrativo, porém estou buscando ingressar na carreira de desenvolvedor.
+🎂 24 Anos
+💼 Atualmente trabalho como Programador Front-end.
 ❤️ Gosto de Front-end.
 👨‍🎓 Cursando Sistemas de Informação - UNITPAC.
 ```
