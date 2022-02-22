@@ -2,6 +2,6 @@
 ```
 🎂 23 Anos
 💼 Atualmente trabalho como Auxiliar Administrativo, porém estou buscando ingressar na carreira de desenvolvedor.
-❤️ Gosto de Front-end e Back-end.
+❤️ Gosto de Front-end.
 👨‍🎓 Cursando Sistemas de Informação - UNITPAC.
 ```
