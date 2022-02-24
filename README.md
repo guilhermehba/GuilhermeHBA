@@ -5,3 +5,4 @@
 ❤️ Gosto de Front-end.
 👨‍🎓 Cursando Sistemas de Informação - UNITPAC.
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehba)](https://github.com/guilhermehba/github-readme-stats)
