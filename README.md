@@ -28,7 +28,7 @@ No meu tempo livre gosto de:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-I am a **Python** developer. Currently, I work as Front-End developer at **[@ergon](https://ergonsistemas.com.br/)**.
+I am a **Python/Django** developer. Currently, I work as Front-End developer at **[@ergon](https://ergonsistemas.com.br/)**.
 
 Feel free to contact me via **<a href="mailto:guilhermemalka6@gmail.com">email</a>** or **[linkedin](https://www.linkedin.com/in/guilherme-henrique-batista-ara%C3%BAjo/)**.
 
