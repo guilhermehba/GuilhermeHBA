@@ -21,7 +21,7 @@ No meu tempo livre gosto de:
 
 > translating to english -->
 
-<h2>Hi there! I'm Wellysson Rocha 👋</h2>
+<h2>Hi there! I'm Guilherme Henrique 👋</h2>
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehba&layout=compact&langs_count=7&theme=dracula"/>
