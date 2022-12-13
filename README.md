@@ -34,17 +34,17 @@ Feel free to contact me via **<a href="mailto:guilhermemalka6@gmail.com">email</
 
 knowledge in:
 
-* Django Framework
+* Django WEB Framework
+* Django REST framework
 * LDAP
 * Rest API
 * HTML:5
 * Bootstrap
 * JavaScript 
 * CSS3
-* Repository pattern
 * Git
-* Basic c#
-* Xamarin
+* Angular
+* RXJS
 
 <!--
 **Guilhermehba/guilhermehba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
