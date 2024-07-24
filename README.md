@@ -28,24 +28,24 @@ No meu tempo livre gosto de:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-I am a **Python/Django** developer. Currently, I work as Front-End developer at **[@ergon](https://ergonsistemas.com.br/)**.
+I am a **Fullstack** developer. Currently, I work as Front-End developer with Angular16+ at **[@ergon](https://ergonsistemas.com.br/)**.
 
 Feel free to contact me via **<a href="mailto:guilhermemalka6@gmail.com">email</a>** or **[linkedin](https://www.linkedin.com/in/guilherme-henrique-batista-ara%C3%BAjo/)**.
 
 knowledge in:
 
-* Django WEB Framework
-* Django REST framework
-* LDAP
+* Typescript 
+* Node.js
+* Nest.JS 
+* Angular
+* RXJS
 * Rest API
-* HTML:5
+* Git
+* HTML
 * Bootstrap
 * JavaScript 
 * CSS3
-* Git
-* Angular
-* RXJS
-
+* 
 <!--
 **Guilhermehba/guilhermehba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
